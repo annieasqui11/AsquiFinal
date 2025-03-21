@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1037215469543",
+    "project_id": "academico-c1710",
+    "storage_bucket": "academico-c1710.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037215469543:android:14e768856288b033bcb742",
+        "android_client_info": {
+          "package_name": "com.example.academicoaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037215469543-anmb6ueopl1se9lg0bltk7fdo20m1sra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.academicoaa",
+            "certificate_hash": "769e2970c1cd5a6c7c926e3b5dc5032e135068b0"
+          }
+        },
+        {
+          "client_id": "1037215469543-iekrc72mrpq967c0as4fom4f7t0h1ctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVaGswY3oHf0PdOlsOj0IQpOeO0SwetRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037215469543-iekrc72mrpq967c0as4fom4f7t0h1ctf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037215469543-f1cl8fv1dgmdbbkltv5fjvc2gtee14b3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.academicoaa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
